@@ -47,7 +47,7 @@ function GetRandomBreed(breeds) {
   return breeds[index];
 }
 
-//Typescript
+typescript
 
 class Dog {
   Name: string;
